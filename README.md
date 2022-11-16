@@ -19,4 +19,6 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=vjohniqv-white?style=flat-square&logo=appveyor" alt=""/>
+
 
