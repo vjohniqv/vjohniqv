@@ -21,4 +21,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=vjohniqv&style=flat-square&color=grey" alt=""/>
 
-
+# `About Me`
+### My name is `Zhenya` im `19` and im from `Kyiv`. I am a crypto enthusiast. I like everything related to cryptocurrency and `Web3.0` in general. My goal is to become a professional `DevOps` engineer.
+=======
+# `My Skills / My Plans`
+### `Skills` - Linux, Windows, Ansible, Jenkins, Git, GitHub.
+### `Plans` - Docker, Bash, Python, AWS/GCP/Azure, Terraform, JS, Kubernetes.
+=======
+# `The end` 
+### Soon there will be something `more` than just a profile.
+=======
