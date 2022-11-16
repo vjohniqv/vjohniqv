@@ -23,11 +23,11 @@
 
 # `About Me`
 ### My name is `Zhenya` im `19` and im from `Kyiv`. I am a crypto enthusiast. I like everything related to cryptocurrency and `Web3.0` in general. My goal is to become a professional `DevOps` engineer.
-=======
+___
 # `My Skills / My Plans`
 ### `Skills` - Linux, Windows, Ansible, Jenkins, Git, GitHub.
 ### `Plans` - Docker, Bash, Python, AWS/GCP/Azure, Terraform, JS, Kubernetes.
-=======
+___
 # `The end` 
 ### Soon there will be something `more` than just a profile.
-=======
+___
